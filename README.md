@@ -1,1 +1,1 @@
-# Core Network Services - DHCP Server
+# DHCP Server Lab
